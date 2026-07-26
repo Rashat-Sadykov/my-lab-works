@@ -40,8 +40,8 @@
   * ![Шаг 1 — Обнаружение события в журнале](sns-incident-theft1.png)
   * ![Шаг 2 — Обнаружение события в журнале](sns-incident-theft2.png)
   * ![Шаг 3 — Обнаружение события в журнале](sns-incident-theft3.png)
-  * ![Шаг 4 — Анализ учетной записи нарушителя](sns-incident4.png)
-  * ![Шаг 5 — Фиксация факта доступа к файлу](sns-incident5.png)
+  * ![Шаг 4 — Анализ учетной записи нарушителя](sns-incident-theft4.png)
+  * ![Шаг 5 — Фиксация факта доступа к файлу](sns-incident-theft5.png)
   * ![Шаг 6 — Заключение](sns-incident-theft.png)
 
 </details>
