@@ -62,6 +62,21 @@
 ### Кейс А: Централизованное администрирование антивирусной защиты
 *Описание:* Развертывание и настройка серверов администрирования, создание и применение групповых политик безопасности и правил обновлений для хостов корпоративной сети.
 
+<details>
+  <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки Kaspersky Security Center</b></summary>
+  <br>
+
+  * ![Шаг 2 — Настройка защиты файловых угроз](ksc-antivirus-policies1-1.png)
+  * ![Шаг 3 — Настройка защиты файловых угроз](ksc-antivirus-policies1-2.png)
+  * ![Шаг 4 — Настройка защиты файловых угроз](ksc-antivirus-policies1-3.png)
+  * ![Шаг 5 — Настройка полной проверки](ksc-antivirus-policies2.png)
+  * ![Шаг 5 — Настройка полной проверки](ksc-antivirus-policies2-1.png)
+  * ![Шаг 6 — Установка пароля администратора](ksc-antivirus-policies3.png)
+  * ![Шаг 7 — Проверка](ksc-antivirus-policies4.png)
+  
+</details>
+
+
 ![Администрирование Kaspersky Security Center](ksc-antivirus-policies.png)
 
 ---
