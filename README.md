@@ -75,8 +75,3 @@
   * ![Шаг 7 — Проверка](ksc-antivirus-policies4.png)
   
 </details>
-
-
-![Администрирование Kaspersky Security Center](ksc-antivirus-policies.png)
-
----
