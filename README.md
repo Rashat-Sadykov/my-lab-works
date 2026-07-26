@@ -13,18 +13,18 @@
   <summary><b>🖼️ Нажмите, чтобы посмотреть скриншоты настройки (12 фото)</b></summary>
   <br>
 
-  * ![Шаг 1](sns-admin-step2.png)
-  * ![Шаг 2](sns-admin-step2-1.png)
-  * ![Шаг 3](sns-admin-step3.png)
-  * ![Шаг 4](sns-admin-step3-1.png)
-  * ![Шаг 5](sns-admin-step3-2.png)
-  * ![Шаг 6](sns-admin-step3-3.png)
-  * ![Шаг 7](sns-admin-step3-4.png)
-  * ![Шаг 8](sns-admin-step3-5.png)
-  * ![Шаг 9](sns-admin-step4.png)
-  * ![Шаг 10](sns-admin-step4-1.png)
-  * ![Шаг 11](sns-admin-step4-2.png)
-  * ![Шаг 12](sns-admin-step4-3.png)
+  * ![Шаг 1](sns-autonomous-admin2.png)
+  * ![Шаг 2](sns-autonomous-admin2-1.png)
+  * ![Шаг 3](sns-autonomous-admin3.png)
+  * ![Шаг 4](sns-autonomous-admin3-1.png)
+  * ![Шаг 5](sns-autonomous-admin3-2.png)
+  * ![Шаг 6](sns-autonomous-admin3-3.png)
+  * ![Шаг 7](sns-autonomous-admin3-4.png)
+  * ![Шаг 8](sns-autonomous-admin3-5.png)
+  * ![Шаг 9](sns-autonomous-admin4.png)
+  * ![Шаг 10](sns-autonomous-admin4-1.png)
+  * ![Шаг 11](sns-autonomous-admin4-2.png)
+  * ![Шаг 12](sns-autonomous-admin4-3.png)
 
 </details>
 
